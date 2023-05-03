@@ -77,3 +77,7 @@ For information on contributing to this project, please see [CONTRIBUTING.md](/C
 
 [contributors-image]: https://contrib.rocks/image?repo=betterdiscord/betterdiscord
 [contributors-link]: https://github.com/betterdiscord/betterdiscord/graphs/contributors
+
+
+
+#https://gitlab.com/_Lighty_/bdstuff/blob/master/public/plugins/MessageLoggerV2.plugin.js
